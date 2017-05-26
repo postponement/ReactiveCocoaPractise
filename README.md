@@ -1,0 +1,3 @@
+# ReactiveCocoaPractise
+利用RAC实现的小游戏demo
+demo使用了RAC中常用语法,以及信号的升阶与降阶
